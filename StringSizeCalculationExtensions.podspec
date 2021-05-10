@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
-  s.name             = 'StringSizeCalculationExtensions'
+  s.name             = 'StringSizeCalculationExtension'
   s.version          = '1.0'
   s.license          = 'MIT'
   s.summary          = 'Flexible base components with style'
-  s.homepage         = 'https://github.com/mjrehder/StringSizeCalculationExtensions.git'
+  s.homepage         = 'https://github.com/mjrehder/StringSizeCalculationExtension.git'
   s.authors          = { 'Martin Jacob Rehder' => 'gitrepocon01@rehsco.com' }
-  s.source           = { :git => 'https://github.com/mjrehder/StringSizeCalculationExtensions.git', :tag => s.version }
+  s.source           = { :git => 'https://github.com/mjrehder/StringSizeCalculationExtension.git', :tag => s.version }
   s.swift_version    = '5.0'
   s.ios.deployment_target = '12.0'
 
